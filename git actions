@@ -1,6 +1,6 @@
 
  Revert commits from main branch
-    -git log (find the commit)
+   <h5> -git log (find the commit)</h5>
     -git checkout <commit_id>
     -git show <commit_id>
     -git checkout -b new-branch-name <commit_id>
