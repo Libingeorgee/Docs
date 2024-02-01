@@ -12,7 +12,7 @@ pint123!
 ```
 Now you're inside the Terminal
  
-- Build project: 
+- Build project from the vscode terminal 
 
 ```
 mvn clean install
